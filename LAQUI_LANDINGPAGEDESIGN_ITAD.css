@@ -1,0 +1,87 @@
+	body{
+           font-family: Roboto Condensed;
+           color:#fcedda;
+		   font-size:1.5em;
+		   	background-size:1800px;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+    }
+	
+	h1{ 
+		   text-align: center;
+		   right: 10px;
+		   margin: 30px;
+           margin-top: 20px;
+		   font-size: 100px;
+		   font-family: Bitter&display=swap;
+		   color: #fcedda;
+           text-shadow: 5px 5px 8px violet;
+	}
+	
+	div {
+
+            width: 300px;
+			height:200px;
+			border: 10px solid #fcedda;
+			padding: 50px;
+			margin: 20px;
+			box-shadow: 5px 5px 8px violet;
+			
+	}
+	div.a {
+			position:absolute;
+			top:228px;
+			right: 550px;
+            width: 300px;
+			height:200px;
+			border: 10px solid #fcedda;
+			padding: 50px;
+			margin: 20px;
+			box-shadow: 5px 5px 8px violet;
+	}
+	
+	div.b {
+			position:absolute;
+			top:228px;
+			right: 50px;
+            width: 300px;
+			height:200px;
+			border: 10px solid #fcedda;
+			padding: 50px;
+			margin: 20px;
+			box-shadow: 5px 5px 8px violet;
+	}
+	
+	div.c {
+			position:relative;
+			top:100px;
+			left: 500px;
+            width: 300px;
+			height:200px;
+			border: 10px solid #fcedda;
+			padding: 50px;
+			margin: 20px;
+			box-shadow: 5px 5px 8px violet;
+	}
+	
+	
+	.buttons {
+			text-align: center;
+			margin: 50px;
+			margin-top: 30px;
+			width: 200px;
+			height: 40px;
+			border: none;
+			color: #2c003f;
+			background-color:#fcedda;
+			border-radius: 4px;
+			font-size: 12px;
+	}
+	
+	.buttons:hover{
+			box-shadow: inset 300px 0 0 0 #f9e506;
+			cursor: pointer;
+			color: black;
+	}
+
+

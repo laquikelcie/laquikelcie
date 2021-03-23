@@ -1,0 +1,53 @@
+	body{
+           background-color:#fcedda;
+           font-family: Roboto Condensed;
+           color:purple;
+		   font-size:1.5em;
+    }
+        h1{
+           text-align: center;
+           font-family:Roboto Condensed, Bookman old style, serif;
+           font-size:2.5em;
+		   background-color: purple;
+           color: #fcedda;
+           text-transform:uppercase;
+           word-spacing: 20px;
+           text-shadow: 5px 5px 8px violet;
+
+        }
+		
+		h2{
+           text-align: center;
+		   font-family: Pathway+Gothic+One&display;
+		   background-color: purple;
+           color: #fcedda;
+           text-transform:uppercase;
+           word-spacing: 30px;
+           text-shadow: 5px 5px 8px violet;
+
+        }
+    p{
+        text-align: justify;
+		font-family: Pathway+Gothic+One&display;
+        font-size: 20px;
+        text-indent: 55px;
+        line-height:20px;
+        word-spacing: 5px
+
+
+    }    
+	
+	img {
+			width:400px; 
+			height:400px;
+			box-shadow: 20px 10px 10px 5px violet;
+		}
+		
+	a {
+		color: purple;
+		font-size: 20px;
+		
+	}
+	
+
+body
